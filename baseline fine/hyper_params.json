@@ -1,0 +1,17 @@
+{
+  "annotation_path": "Z:\\Bach code\\Dcase2020_Task5-master\\data\\annotations_train.csv",
+  "taxonomy_path": "Z:\\Bach code\\Dcase2020_Task5-master\\data\\dcase-ust-taxonomy.yaml",
+  "output_dir": "Z:\\Bach code\\Dcase2020_Task5-master\\output",
+  "exp_id": "baseline_fine",
+  "emb_dir": "Z:\\Bach code\\Dcase2020_Task5-master\\src\\",
+  "dropout_size": 0.4,
+  "ef_mode": 3,
+  "learning_rate": 0.0001,
+  "l2_reg": 0.0001,
+  "batch_size": 16,
+  "num_epochs": 8,
+  "patience": 1000,
+  "no_standardize": false,
+  "label_mode": "fine",
+  "random_state": 0
+}
